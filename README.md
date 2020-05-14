@@ -3,8 +3,11 @@ It is a regression model trained by me to predict house prices in King County(Se
 The dataset used is taken from kaggle. Link-https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Feature Columns
+
 id - Unique ID for each home sold
+
 date - Date of the home sale
+
 price - Price of each home sold
 bedrooms - Number of bedrooms
 bathrooms - Number of bathrooms, where .5 accounts for a room with a toilet but no shower
